@@ -66,12 +66,6 @@ src/
     └── Booking.java             # Booking entity
 ```
 
-### Design Pattern
-- **MVC Architecture**: Separation of concerns
-- **DAO Pattern**: Abstraksi database operations
-- **Service Layer**: Business logic isolation
-- **RESTful API**: Standard HTTP methods
-
 ### Database Schema
 
 #### Table: USERS

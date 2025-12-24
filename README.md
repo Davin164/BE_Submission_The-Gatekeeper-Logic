@@ -135,7 +135,8 @@ cd BE_Submission_The-Gatekeeper-Logic
 ### Step 2: Setup Database
 ```bash
 # Login ke MySQL
-mysql -u root -p
+mysql -u root
+mysql -u root -p (jika ada password)
 
 # Jalankan database.sql
 source database.sql

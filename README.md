@@ -464,7 +464,7 @@ curl -X POST http://localhost:8080/api/bookings \
 
 ## 🙏 Acknowledgments
 
-- Submission untuk Backend Web Developer Program
+- Submission ini untuk kepentingan Tugas Backend Web Developer Program
 - Studi Kasus: "The Gatekeeper Logic"
 - Platform Tiket Event Online dengan Overselling Prevention
 ---

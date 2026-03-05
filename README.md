@@ -25,13 +25,13 @@ Platform backend untuk sistem tiket event online yang memfasilitasi:
 ## ✨ Fitur Utama
 
 ### 🔒 Core Features
-- ✅ **CRUD Users** - Manajemen data pengguna (Customer & Organizer)
-- ✅ **CRUD Events** - Buat, update, dan kelola event
-- ✅ **CRUD Bookings** - Sistem pemesanan tiket
-- ✅ **Pessimistic Locking** - Mencegah race condition
-- ✅ **Transaction Management** - ACID compliance
-- ✅ **Partial Update** - Update field tertentu saja
-- ✅ **Status Management** - Tracking status booking & event
+- **CRUD Users** - Manajemen data pengguna (Customer & Organizer)
+- **CRUD Events** - Buat, update, dan kelola event
+- **CRUD Bookings** - Sistem pemesanan tiket
+- **Pessimistic Locking** - Mencegah race condition
+- **Transaction Management** - ACID compliance
+- **Partial Update** - Update field tertentu saja
+- **Status Management** - Tracking status booking & event
 
 ### 🛡️ Security Features
 - Database transaction dengan BEGIN/COMMIT/ROLLBACK

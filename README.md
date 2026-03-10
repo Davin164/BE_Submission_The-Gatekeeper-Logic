@@ -467,6 +467,7 @@ curl -X POST http://localhost:8080/api/bookings \
 - Submission ini untuk kepentingan Tugas Backend Web Developer Program
 - Studi Kasus: "The Gatekeeper Logic"
 - Platform Tiket Event Online dengan Overselling Prevention
+- Bisa diintegrasikan dengan Spring boot
 ---
 
 **Made with ☕ and 💻 in Indonesia**

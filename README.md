@@ -464,7 +464,7 @@ curl -X POST http://localhost:8080/api/bookings \
 
 ## 🙏 Acknowledgments
 
-- Submission ini untuk kepentingan Tugas Backend Web Developer
+- Submission ini untuk kepentingan Tugas Backend Web Developer GDGoC 2026
 - Studi Kasus: "The Gatekeeper Logic"
 - Platform Tiket Event Online dengan Overselling Prevention
 - Bisa diintegrasikan dengan Spring boot (Framework Java)
